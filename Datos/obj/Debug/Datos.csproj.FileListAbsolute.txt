@@ -1,0 +1,63 @@
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\Plantilla Base De Datos\Plantilla\Datos\bin\Debug\Datos.dll
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\Plantilla Base De Datos\Plantilla\Datos\bin\Debug\Datos.pdb
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\Plantilla Base De Datos\Plantilla\Datos\bin\Debug\Entidades.dll
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\Plantilla Base De Datos\Plantilla\Datos\bin\Debug\Entidades.pdb
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\Plantilla Base De Datos\Plantilla\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\Plantilla Base De Datos\Plantilla\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\Plantilla Base De Datos\Plantilla\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\Plantilla Base De Datos\Plantilla\Datos\obj\Debug\Datos.dll
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\Plantilla Base De Datos\Plantilla\Datos\obj\Debug\Datos.pdb
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\TRABAJO FINAL\Datos\bin\Debug\Datos.dll
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\TRABAJO FINAL\Datos\bin\Debug\Datos.pdb
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\TRABAJO FINAL\Datos\bin\Debug\Entidades.dll
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\TRABAJO FINAL\Datos\bin\Debug\Entidades.pdb
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\TRABAJO FINAL\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\TRABAJO FINAL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\TRABAJO FINAL\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\TRABAJO FINAL\Datos\obj\Debug\Datos.dll
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\TRABAJO FINAL\Datos\obj\Debug\Datos.pdb
+C:\Users\Usuario\source\repos\TRABAJO_FINAL\Datos\bin\Debug\Datos.dll
+C:\Users\Usuario\source\repos\TRABAJO_FINAL\Datos\bin\Debug\Datos.pdb
+C:\Users\Usuario\source\repos\TRABAJO_FINAL\Datos\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\TRABAJO_FINAL\Datos\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\TRABAJO_FINAL\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TRABAJO_FINAL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TRABAJO_FINAL\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TRABAJO_FINAL\Datos\obj\Debug\Datos.dll
+C:\Users\Usuario\source\repos\TRABAJO_FINAL\Datos\obj\Debug\Datos.pdb
+C:\Users\jerem\Desktop\TRABAJO_FINAL\TRABAJO_FINAL\Datos\bin\Debug\Datos.dll
+C:\Users\jerem\Desktop\TRABAJO_FINAL\TRABAJO_FINAL\Datos\bin\Debug\Datos.pdb
+C:\Users\jerem\Desktop\TRABAJO_FINAL\TRABAJO_FINAL\Datos\bin\Debug\Entidades.dll
+C:\Users\jerem\Desktop\TRABAJO_FINAL\TRABAJO_FINAL\Datos\bin\Debug\Entidades.pdb
+C:\Users\jerem\Desktop\TRABAJO_FINAL\TRABAJO_FINAL\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\jerem\Desktop\TRABAJO_FINAL\TRABAJO_FINAL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\TRABAJO_FINAL\TRABAJO_FINAL\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\jerem\Desktop\TRABAJO_FINAL\TRABAJO_FINAL\Datos\obj\Debug\Datos.dll
+C:\Users\jerem\Desktop\TRABAJO_FINAL\TRABAJO_FINAL\Datos\obj\Debug\Datos.pdb
+C:\Users\jerem\Desktop\TRABAJO_FINAL\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\jerem\Desktop\TRABAJO_FINAL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\TRABAJO_FINAL\Datos\obj\Debug\Datos.dll
+C:\Users\jerem\Desktop\TRABAJO_FINAL\Datos\obj\Debug\Datos.pdb
+C:\Users\jerem\Desktop\TRABAJO_FINAL\Datos\bin\Debug\Datos.dll
+C:\Users\jerem\Desktop\TRABAJO_FINAL\Datos\bin\Debug\Datos.pdb
+C:\Users\jerem\Desktop\TRABAJO_FINAL\Datos\bin\Debug\Entidades.dll
+C:\Users\jerem\Desktop\TRABAJO_FINAL\Datos\bin\Debug\Entidades.pdb
+C:\Users\jerem\Desktop\TRABAJO_FINAL\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\LUIS\source\repos\TRABAJO FINAL\Datos\bin\Debug\Datos.dll
+C:\Users\LUIS\source\repos\TRABAJO FINAL\Datos\bin\Debug\Datos.pdb
+C:\Users\LUIS\source\repos\TRABAJO FINAL\Datos\bin\Debug\Entidades.dll
+C:\Users\LUIS\source\repos\TRABAJO FINAL\Datos\bin\Debug\Entidades.pdb
+C:\Users\LUIS\source\repos\TRABAJO FINAL\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\LUIS\source\repos\TRABAJO FINAL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\source\repos\TRABAJO FINAL\Datos\obj\Debug\Datos.dll
+C:\Users\LUIS\source\repos\TRABAJO FINAL\Datos\obj\Debug\Datos.pdb
+C:\Users\LUIS\source\repos\TRABAJO FINAL\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\LUIS\Desktop\TRABAJO FINAL\Datos\bin\Debug\Datos.dll
+C:\Users\LUIS\Desktop\TRABAJO FINAL\Datos\bin\Debug\Datos.pdb
+C:\Users\LUIS\Desktop\TRABAJO FINAL\Datos\bin\Debug\Entidades.dll
+C:\Users\LUIS\Desktop\TRABAJO FINAL\Datos\bin\Debug\Entidades.pdb
+C:\Users\LUIS\Desktop\TRABAJO FINAL\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\LUIS\Desktop\TRABAJO FINAL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\Desktop\TRABAJO FINAL\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\LUIS\Desktop\TRABAJO FINAL\Datos\obj\Debug\Datos.dll
+C:\Users\LUIS\Desktop\TRABAJO FINAL\Datos\obj\Debug\Datos.pdb

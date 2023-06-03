@@ -1,0 +1,36 @@
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\Plantilla Base De Datos\Plantilla\Entidades\bin\Debug\Entidades.dll
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\Plantilla Base De Datos\Plantilla\Entidades\bin\Debug\Entidades.pdb
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\Plantilla Base De Datos\Plantilla\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\Plantilla Base De Datos\Plantilla\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\Plantilla Base De Datos\Plantilla\Entidades\obj\Debug\Entidades.dll
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\Plantilla Base De Datos\Plantilla\Entidades\obj\Debug\Entidades.pdb
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\TRABAJO FINAL\Entidades\bin\Debug\Entidades.dll
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\TRABAJO FINAL\Entidades\bin\Debug\Entidades.pdb
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\TRABAJO FINAL\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\TRABAJO FINAL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\TRABAJO FINAL\Entidades\obj\Debug\Entidades.dll
+D:\UPC\4to ciclo\Fundamentos de Sistemas de Informacion\Practica PC2 DataBase\TRABAJO FINAL\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\TRABAJO_FINAL\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\TRABAJO_FINAL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\TRABAJO_FINAL\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TRABAJO_FINAL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TRABAJO_FINAL\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\TRABAJO_FINAL\Entidades\obj\Debug\Entidades.pdb
+C:\Users\jerem\Desktop\TRABAJO_FINAL\TRABAJO_FINAL\Entidades\bin\Debug\Entidades.dll
+C:\Users\jerem\Desktop\TRABAJO_FINAL\TRABAJO_FINAL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\jerem\Desktop\TRABAJO_FINAL\TRABAJO_FINAL\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\jerem\Desktop\TRABAJO_FINAL\TRABAJO_FINAL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\TRABAJO_FINAL\TRABAJO_FINAL\Entidades\obj\Debug\Entidades.dll
+C:\Users\jerem\Desktop\TRABAJO_FINAL\TRABAJO_FINAL\Entidades\obj\Debug\Entidades.pdb
+C:\Users\jerem\Desktop\TRABAJO_FINAL\Entidades\bin\Debug\Entidades.dll
+C:\Users\jerem\Desktop\TRABAJO_FINAL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\jerem\Desktop\TRABAJO_FINAL\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\jerem\Desktop\TRABAJO_FINAL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\TRABAJO_FINAL\Entidades\obj\Debug\Entidades.dll
+C:\Users\jerem\Desktop\TRABAJO_FINAL\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LUIS\source\repos\TRABAJO FINAL\Entidades\bin\Debug\Entidades.dll
+C:\Users\LUIS\source\repos\TRABAJO FINAL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LUIS\source\repos\TRABAJO FINAL\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LUIS\source\repos\TRABAJO FINAL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\source\repos\TRABAJO FINAL\Entidades\obj\Debug\Entidades.dll
+C:\Users\LUIS\source\repos\TRABAJO FINAL\Entidades\obj\Debug\Entidades.pdb
