@@ -119,3 +119,21 @@ C:\Users\LUIS\Desktop\TRABAJO FINAL\Presentacion\obj\Debug\Presentacion.csproj.C
 C:\Users\LUIS\Desktop\TRABAJO FINAL\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
 C:\Users\LUIS\Desktop\TRABAJO FINAL\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\LUIS\Desktop\TRABAJO FINAL\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\bin\Debug\Entidades.dll
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\bin\Debug\Negocio.dll
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\bin\Debug\Datos.dll
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\bin\Debug\Datos.pdb
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Presentacion\obj\Debug\Presentacion.pdb

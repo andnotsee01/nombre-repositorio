@@ -34,3 +34,9 @@ C:\Users\LUIS\source\repos\TRABAJO FINAL\Entidades\obj\Debug\Entidades.csproj.As
 C:\Users\LUIS\source\repos\TRABAJO FINAL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\LUIS\source\repos\TRABAJO FINAL\Entidades\obj\Debug\Entidades.dll
 C:\Users\LUIS\source\repos\TRABAJO FINAL\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Entidades\bin\Debug\Entidades.dll
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Entidades\obj\Debug\Entidades.dll
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Entidades\obj\Debug\Entidades.pdb

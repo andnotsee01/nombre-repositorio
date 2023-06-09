@@ -19,7 +19,7 @@ namespace Presentacion
         nVenta nventa = new nVenta();
         DataTable dt = new DataTable();
         int dni;
-        int codProducto;
+        int codProducto = -1;
         int codVenta;
         int contD = 0;
         int contC = 0;
@@ -159,11 +159,30 @@ namespace Presentacion
             
         }
 
+        private bool ValidateTB_NombreProducto()
+        {
+            string text = TB_NombreProducto.Text.Trim();
+
+            if (string.IsNullOrWhiteSpace(text) || text.Length > 20 || !text.All(char.IsLetter))
+            {
+                TB_NombreProducto.Focus();
+                TB_NombreProducto.SelectAll();
+                return false;
+            }
+
+            return true;
+        }
+
         private void btnModificarProducto_Click(object sender, EventArgs e)
         {
+ 
             if (codProducto != -1)
             {
-                if (TB_NombreProducto.Text != "" && TB_Precio.Text != "" && CB_Categoria.SelectedIndex != -1 && Num_Cantidad.Value != 0)
+                if (!ValidateTB_NombreProducto())
+				{
+                    MessageBox.Show("No se puede modificar, se ingresó incorrectamente el siguente campo: Nombre");
+				}
+                else if (TB_NombreProducto.Text != "" && TB_Precio.Text != "" && CB_Categoria.SelectedIndex != -1 && Num_Cantidad.Value != 0)
                 {
                     MessageBox.Show(gp.ModificarProducto(codProducto, TB_NombreProducto.Text, Convert.ToDecimal(TB_Precio.Text), CB_Categoria.SelectedItem.ToString(), Convert.ToInt32(Num_Cantidad.Value)));
                     MostrarProductos();
@@ -171,6 +190,7 @@ namespace Presentacion
                     TB_Precio.Clear();
                     CB_Categoria.SelectedIndex = -1;
                     Num_Cantidad.Value = 0;
+                    codProducto = -1;
                 }
                 else
                 {
@@ -595,7 +615,10 @@ namespace Presentacion
 
         private void Num_Cantidad_KeyPress(object sender, KeyPressEventArgs e)
         {
-            e.Handled = true;
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
         }
 
         private void Num_Cantidad_Venta_KeyPress(object sender, KeyPressEventArgs e)
@@ -634,5 +657,7 @@ namespace Presentacion
                 chart2.Series["Nombre"].Points.AddXY(dt.Rows[i]["Nombre"], dt.Rows[i]["ComprasSoles"]);
             }
         }
-    }
+
+	}
+	
 }

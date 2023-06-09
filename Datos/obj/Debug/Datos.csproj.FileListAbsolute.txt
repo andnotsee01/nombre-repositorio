@@ -61,3 +61,12 @@ C:\Users\LUIS\Desktop\TRABAJO FINAL\Datos\obj\Debug\Datos.csproj.CoreCompileInpu
 C:\Users\LUIS\Desktop\TRABAJO FINAL\Datos\obj\Debug\Datos.csproj.CopyComplete
 C:\Users\LUIS\Desktop\TRABAJO FINAL\Datos\obj\Debug\Datos.dll
 C:\Users\LUIS\Desktop\TRABAJO FINAL\Datos\obj\Debug\Datos.pdb
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Datos\bin\Debug\Datos.dll
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Datos\bin\Debug\Datos.pdb
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Datos\bin\Debug\Entidades.dll
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Datos\bin\Debug\Entidades.pdb
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Datos\obj\Debug\Datos.dll
+C:\Users\LUIS\Desktop\TF-CASABLANCA\Datos\obj\Debug\Datos.pdb
