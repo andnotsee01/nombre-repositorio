@@ -57,7 +57,7 @@ namespace Datos
 
                 cmd.ExecuteNonQuery();
                 cmd.Parameters.Clear();
-                return "Modifico";
+                return "Modificado";
             }
             catch (Exception ex)
             {
