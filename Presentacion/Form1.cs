@@ -86,33 +86,40 @@ namespace Presentacion
         {
             if (!txtCelular.Text.Any(char.IsLetter)) //CP-019
             {
-                if (txtDireccion.Text.Length < 51)
-                {
-                    if (txtDNI.Text != "" && txtNombre.Text != "" && txtCelular.Text != "" && txtDireccion.Text != "")
-                    {
-                        ncliente.InsertarCliente(Convert.ToInt32(txtDNI.Text.Trim()), txtNombre.Text.Trim(), Convert.ToInt32(txtCelular.Text.Trim()), txtDireccion.Text.Trim());
-                        txtDNI.Text = "";
-                        txtNombre.Text = "";
-                        txtCelular.Text = "";
-                        txtDireccion.Text = "";
-                        MostrarCliente();
-                        CB_Producto.Items.Clear();
-                        switch (CB_Categoria1.SelectedIndex)
-                        {
-                            case 1: CB_Producto.Items.Add(gp.Productos("Carne Cruda")); break;
-                            case 2: CB_Producto.Items.Add(gp.Productos("Carne Precocida")); break;
-                            case 3: CB_Producto.Items.Add(gp.Productos("Lacteos")); break;
-                        }
-                        cmbDNIVenta.Items.Clear();
-                        foreach (var item in ncliente.Clientes())
-                        {
-                            cmbDNIVenta.Items.Add(item);
-                        }
-                    }
-                    else
-                    {
-                        MessageBox.Show("Rellene todos los campos");
-                    }
+	    	if(txtDNI.Text.Length == 8 && int.TryParse(dni, out _) //CP-017
+		{
+			if (txtDireccion.Text.Length < 51)
+			{
+			    if (txtDNI.Text != "" && txtNombre.Text != "" && txtCelular.Text != "" && txtDireccion.Text != "")
+			    {
+				ncliente.InsertarCliente(Convert.ToInt32(txtDNI.Text.Trim()), txtNombre.Text.Trim(), Convert.ToInt32(txtCelular.Text.Trim()), txtDireccion.Text.Trim());
+				txtDNI.Text = "";
+				txtNombre.Text = "";
+				txtCelular.Text = "";
+				txtDireccion.Text = "";
+				MostrarCliente();
+				CB_Producto.Items.Clear();
+				switch (CB_Categoria1.SelectedIndex)
+				{
+				    case 1: CB_Producto.Items.Add(gp.Productos("Carne Cruda")); break;
+				    case 2: CB_Producto.Items.Add(gp.Productos("Carne Precocida")); break;
+				    case 3: CB_Producto.Items.Add(gp.Productos("Lacteos")); break;
+				}
+				cmbDNIVenta.Items.Clear();
+				foreach (var item in ncliente.Clientes())
+				{
+				    cmbDNIVenta.Items.Add(item);
+				}
+			    }
+			    else
+			    {
+				MessageBox.Show("Rellene todos los campos");
+			    }
+			else
+			{
+				MessageBox.Show("No se puede agregar, se ingreso incorrectamente el siguente campo: DNI");
+			}
+		 }	    
                 }
                 else
                 {
