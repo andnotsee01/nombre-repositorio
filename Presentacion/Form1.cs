@@ -78,62 +78,105 @@ namespace Presentacion
                     txtDireccion.Text = Convert.ToString(dataGridView1.Rows[selec].Cells[3].Value);
                 }
             }
-            contD = 10;
+            contD = 8;
             contC = 9;
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)//cliente
         {
-            if (txtDNI.Text != "" && txtNombre.Text != "" && txtCelular.Text != "" && txtDireccion.Text != "")
+            if (!txtCelular.Text.Any(char.IsLetter)) //CP-019
             {
-                ncliente.InsertarCliente(Convert.ToInt32(txtDNI.Text.Trim()),txtNombre.Text.Trim(),Convert.ToInt32(txtCelular.Text.Trim()),txtDireccion.Text.Trim());
-                txtDNI.Text = "";
-                txtNombre.Text = "";
-                txtCelular.Text = "";
-                txtDireccion.Text = "";
-                MostrarCliente();
-                CB_Producto.Items.Clear();
-                switch (CB_Categoria1.SelectedIndex)
+                if (txtDireccion.Text.Length < 51)
                 {
-                    case 1: CB_Producto.Items.Add(gp.Productos("Carne Cruda")); break;
-                    case 2: CB_Producto.Items.Add(gp.Productos("Carne Precocida")); break;
-                    case 3: CB_Producto.Items.Add(gp.Productos("Lacteos")); break;
+                    if (txtDNI.Text != "" && txtNombre.Text != "" && txtCelular.Text != "" && txtDireccion.Text != "")
+                    {
+                        ncliente.InsertarCliente(Convert.ToInt32(txtDNI.Text.Trim()), txtNombre.Text.Trim(), Convert.ToInt32(txtCelular.Text.Trim()), txtDireccion.Text.Trim());
+                        txtDNI.Text = "";
+                        txtNombre.Text = "";
+                        txtCelular.Text = "";
+                        txtDireccion.Text = "";
+                        MostrarCliente();
+                        CB_Producto.Items.Clear();
+                        switch (CB_Categoria1.SelectedIndex)
+                        {
+                            case 1: CB_Producto.Items.Add(gp.Productos("Carne Cruda")); break;
+                            case 2: CB_Producto.Items.Add(gp.Productos("Carne Precocida")); break;
+                            case 3: CB_Producto.Items.Add(gp.Productos("Lacteos")); break;
+                        }
+                        cmbDNIVenta.Items.Clear();
+                        foreach (var item in ncliente.Clientes())
+                        {
+                            cmbDNIVenta.Items.Add(item);
+                        }
+                    }
+                    else
+                    {
+                        MessageBox.Show("Rellene todos los campos");
+                    }
                 }
-                cmbDNIVenta.Items.Clear();
-                foreach (var item in ncliente.Clientes())
+                else
                 {
-                    cmbDNIVenta.Items.Add(item);
+                    MessageBox.Show("El Campo Dirección debe tener máximo 50 caracteres");
                 }
             }
             else
             {
-                MessageBox.Show("Rellene todos los campos");
+                MessageBox.Show("Ingrese solo números en el campo Celular");
             }
+            
+
             contD = 0;
             contC = 0;
         }
 
         private void btnModificar_Click(object sender, EventArgs e)
         {
-            contD = 10;
-            contC = 9;
+            
+            //contD = 10;
+            //contC = 9;
+            
             if (dni != 0)
             {
-                if (txtDNI.Text != "" && txtNombre.Text != "" && txtCelular.Text != "" && txtDireccion.Text != "") {
-                    MessageBox.Show(ncliente.ModificarCliente(Convert.ToInt32(txtDNI.Text.Trim()), txtNombre.Text.Trim(), Convert.ToInt32(txtCelular.Text.Trim()), txtDireccion.Text.Trim()));
-                    MostrarCliente();
+                if (txtDNI.Text != Convert.ToString(dni))
+                {
+                    MessageBox.Show("No Modifique el campo DNI");
                 }
                 else
                 {
-                    MessageBox.Show("Ingrese todos los datos.");
+                    if (txtDireccion.Text.Length < 51)
+                    {
+                        if (txtDNI.Text != "" && txtNombre.Text != "" && txtCelular.Text != "" && txtDireccion.Text != "")
+                        {
+                            MessageBox.Show(ncliente.ModificarCliente(Convert.ToInt32(txtDNI.Text.Trim()), txtNombre.Text.Trim(), Convert.ToInt32(txtCelular.Text.Trim()), txtDireccion.Text.Trim()));
+                            txtDNI.Text = "";
+                            txtNombre.Text = "";
+                            txtCelular.Text = "";
+                            txtDireccion.Text = "";
+                            dni = 0;
+                            MostrarCliente();
+                            contD = 0;
+                            contC = 0;
+                        }
+                        else
+                        {
+                            MessageBox.Show("Ingrese todos los datos.");
+                        }
+                    }
+                    else
+                    {
+                        MessageBox.Show("El Campo Dirección debe tener máximo 50 caracteres");
+                    }
                 }
             }
             else
             {
                 MessageBox.Show("Debe seleccionar un empleo de la lista");
             }
-            contD = 0;
-            contC = 0;
+
+            
+            
+            //contD = 0;
+            //contC = 0;
         }
 
         private void btnAgregarProducto_Click(object sender, EventArgs e)
@@ -480,6 +523,7 @@ namespace Presentacion
             }
             else
             {
+                
                 e.Handled = true;
             }
         }
@@ -512,8 +556,12 @@ namespace Presentacion
             }
             if (contC < 9)
             {
-                if (Char.IsDigit(e.KeyChar))
+                if (Char.IsLetter(e.KeyChar))
                 {
+                    e.Handled = false;
+                    contC++;
+                }
+                else if(Char.IsDigit(e.KeyChar)){
                     e.Handled = false;
                     contC++;
                 }
